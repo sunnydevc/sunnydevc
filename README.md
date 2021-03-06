@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunnydevc&show_icons=true&locale=en&layout=compact" alt="sunnydevc" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunnydevc&show_icons=true&locale=en" alt="sunnydevc" /></p>
 
