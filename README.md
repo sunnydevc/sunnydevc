@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="left">Hi I'm jpohn sons</h1>
-<h5 align="left"><ul>
+<h5 align="left">
+  <ul>
   <li> A passionate full stack python/Django Developer who love to making website <li>
   <li>I'm aspiring web developer currently Learning and Developing in Django <li>
   <li> I'm a knowledge seeker & love to learn new technology <li>
-  <ul><h5>
+  <ul>
+ <h5>
 
 
 
