@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="left">Hi I'm jpohn sons</h1>
-<h3 align="left">A passionate full stack python/Django Developer who love to making website <h3>
+<h3 align="left"><ul>
+  <li> A passionate full stack python/Django Developer who love to making website <li>
+  <ul><h3>
 
 
 
